@@ -17,10 +17,20 @@ def open_json(path):
 
 
 def create_geojson(jobj, params):
-    geo_list = []
+    geo_obj = {
+        "type": "FeatureCollection",
+        "features":[]
+    }
     for i in jobj:
         coordinates = []
-        geo_obj = {}
+        feature = {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "properties":{}
+        }
         # パラメータが1つ以上存在する場合
         if len(params) > 1:
             for p in params:
@@ -33,11 +43,11 @@ def create_geojson(jobj, params):
         else:
             param = params[0]
             coordinates = get_coordinates(i.get(param))
-            geo_obj = {
-                
-            }
             print(coordinates)
-    return None
+            feature["geometry"]["coordinates"] = coordinates
+        feature["properties"] = i
+        geo_obj["features"].append(feature)
+    return geo_obj
 
 
 """
@@ -56,6 +66,12 @@ def get_coordinates(items):
     except ValueError as e:
         print(e)
         return False
+
+
+def output_json(geo_obj):
+    filename = input("Save filename:")
+    with open("./" + filename, encoding="UTF-8"):
+        pass
 
 
 if __name__ == "__main__":
