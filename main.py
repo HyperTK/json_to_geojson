@@ -17,8 +17,11 @@ def open_json(path):
 
 
 def create_geojson(jobj, params):
-
+    geo_list = []
     for i in jobj:
+        coordinates = []
+        geo_obj = {}
+        # パラメータが1つ以上存在する場合
         if len(params) > 1:
             for p in params:
                 if i[p] is not None:
@@ -26,9 +29,14 @@ def create_geojson(jobj, params):
                     break
                 else:
                     print("NG")
+        # パラメータが1つの場合
         else:
             param = params[0]
-            print(i.get(param))
+            coordinates = get_coordinates(i.get(param))
+            geo_obj = {
+                
+            }
+            print(coordinates)
     return None
 
 
@@ -38,10 +46,16 @@ def create_geojson(jobj, params):
 """
 
 
-def get_coordinate(item):
-    str_coordinates = item.split(",")
-
-    return []
+def get_coordinates(items):
+    try:
+        str_coordinates = items.split(",")
+        coordinates = [float(i) for i in str_coordinates]
+        # 降順にソートする(経度が先頭に来る)
+        sorted_list = sorted(coordinates, reverse=True)
+        return sorted_list
+    except ValueError as e:
+        print(e)
+        return False
 
 
 if __name__ == "__main__":
