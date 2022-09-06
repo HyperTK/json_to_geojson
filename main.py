@@ -11,6 +11,7 @@ def open_json(path):
         j = json.load(f)
         return j
 
+
 """
     geojsonにオブジェクトを作成する
 """
@@ -19,7 +20,7 @@ def open_json(path):
 def create_geojson(jobj, params):
     geo_obj = {
         "type": "FeatureCollection",
-        "features":[]
+        "features": []
     }
     for i in jobj:
         coordinates = []
@@ -29,7 +30,7 @@ def create_geojson(jobj, params):
                 "type": "Point",
                 "coordinates": []
             },
-            "properties":{}
+            "properties": {}
         }
         # パラメータが1つ以上存在する場合
         if len(params) > 1:
@@ -70,8 +71,10 @@ def get_coordinates(items):
 
 def output_json(geo_obj):
     filename = input("Save filename:")
-    with open("./" + filename, encoding="UTF-8"):
-        pass
+    filepath = "./{}{}".format(filename, ".geojson")
+    # ファイルに書き出し
+    with open(filepath, "w", encoding="UTF-8") as f:
+        json.dump(geo_obj, f, indent=4, ensure_ascii=False)
 
 
 if __name__ == "__main__":
@@ -79,5 +82,5 @@ if __name__ == "__main__":
     params = input("座標パラメータ名(スペース区切り):").split()
     jobj = open_json(path)
     geojson = create_geojson(jobj, params)
-
-    print(j)
+    output_json(geojson)
+    print("finish!")

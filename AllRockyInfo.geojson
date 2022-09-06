@@ -1,0 +1,4898 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.192064676636,
+                    42.4535841054893
+                ]
+            },
+            "properties": {
+                "rockyId": 127,
+                "name": "アヨロ",
+                "nameKana": "あよろ",
+                "address": "北海道白老郡白老町",
+                "longitudelatitude": "42.4535841054893,141.192064676636",
+                "level": "",
+                "url": "127",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "both"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.893748551883,
+                    42.6447305899123
+                ]
+            },
+            "properties": {
+                "rockyId": 128,
+                "name": "エボシ岩",
+                "nameKana": "えぼしいわ",
+                "address": "北海道虻田郡洞爺湖町",
+                "longitudelatitude": "42.6447305899123,140.893748551883",
+                "level": "",
+                "url": "128",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.3079528,
+                    42.94654722
+                ]
+            },
+            "properties": {
+                "rockyId": 246,
+                "name": "ニニウ",
+                "nameKana": "ににう",
+                "address": "北海道勇払郡占冠村",
+                "longitudelatitude": "42.94654722,142.3079528",
+                "level": "",
+                "url": "246",
+                "imgPath": "/img/rp/0246_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.196691674509,
+                    43.7320913787442
+                ]
+            },
+            "properties": {
+                "rockyId": 111,
+                "name": "旭川ボルダー[ケンジコモロボルダー]",
+                "nameKana": "あさひかわぼるだー",
+                "address": "北海道旭川市江丹別町春日",
+                "longitudelatitude": "43.7320913787442,142.196691674509",
+                "level": "",
+                "url": "111",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.31465938710895,
+                    43.67025914248596
+                ]
+            },
+            "properties": {
+                "rockyId": 115,
+                "name": "旭川ボルダー[雨紛・北の再発見ボルダー]",
+                "nameKana": "あさひかわぼるだー",
+                "address": "北海道旭川市神居町御料",
+                "longitudelatitude": "43.67025914248596,142.31465938710895",
+                "level": "",
+                "url": "115",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.31299157212058,
+                    43.697926218214036
+                ]
+            },
+            "properties": {
+                "rockyId": 114,
+                "name": "旭川ボルダー[雨紛パンクロック・マルガリータ]",
+                "nameKana": "あさひかわぼるだー",
+                "address": "北海道旭川市神居町御料",
+                "longitudelatitude": "43.697926218214036,142.31299157212058",
+                "level": "",
+                "url": "114",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.3156178,
+                    43.6703628
+                ]
+            },
+            "properties": {
+                "rockyId": 116,
+                "name": "旭川ボルダー[春志内・ブロッコリーボルダー]",
+                "nameKana": "あさひかわぼるだー",
+                "address": "北海道旭川市神居町春志内",
+                "longitudelatitude": "43.6703628,142.3156178",
+                "level": "",
+                "url": "116",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.2582106,
+                    43.7190988
+                ]
+            },
+            "properties": {
+                "rockyId": 113,
+                "name": "旭川ボルダー[春志内ビアガーデン]",
+                "nameKana": "あさひかわぼるだー",
+                "address": "北海道旭川市神居町春志内",
+                "longitudelatitude": "43.7190988,142.2582106",
+                "level": "",
+                "url": "113",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.199141046449,
+                    43.7327650979453
+                ]
+            },
+            "properties": {
+                "rockyId": 112,
+                "name": "旭川ボルダー[梁山泊]",
+                "nameKana": "あさひかわぼるだー",
+                "address": "北海道旭川市江丹別町春日",
+                "longitudelatitude": "43.7327650979453,142.199141046449",
+                "level": "",
+                "url": "112",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.308310211305,
+                    43.7851254711502
+                ]
+            },
+            "properties": {
+                "rockyId": 124,
+                "name": "奥立岩",
+                "nameKana": "おくたちいわ",
+                "address": "北海道旭川市神居町",
+                "longitudelatitude": "43.7851254711502,142.308310211305",
+                "level": "",
+                "url": "124",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.90619015557,
+                    42.6308904107634
+                ]
+            },
+            "properties": {
+                "rockyId": 121,
+                "name": "義経岩",
+                "nameKana": "よしつねいわ",
+                "address": "北海道虻田郡洞爺湖町",
+                "longitudelatitude": "42.6308904107634,140.90619015557",
+                "level": "",
+                "url": "121",
+                "imgPath": "/img/rp/0121_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.53206743189,
+                    44.3653279045581
+                ]
+            },
+            "properties": {
+                "rockyId": 117,
+                "name": "見晴岩",
+                "nameKana": "みはらしいわ",
+                "address": "北海道名寄市字日進",
+                "longitudelatitude": "44.3653279045581,142.53206743189",
+                "level": "",
+                "url": "117",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.428234656979,
+                    41.5349195686671
+                ]
+            },
+            "properties": {
+                "rockyId": 129,
+                "name": "小谷石",
+                "nameKana": "こたにいし",
+                "address": "北海道上磯郡知内町",
+                "longitudelatitude": "41.5349195686671,140.428234656979",
+                "level": "",
+                "url": "129",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.85799295806,
+                    43.0002259344864
+                ]
+            },
+            "properties": {
+                "rockyId": 119,
+                "name": "床潭",
+                "nameKana": "とこたん",
+                "address": "北海道厚岸郡厚岸町",
+                "longitudelatitude": "43.0002259344864,144.85799295806",
+                "level": "",
+                "url": "119",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "both"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.196482241226,
+                    43.7358006983231
+                ]
+            },
+            "properties": {
+                "rockyId": 110,
+                "name": "神居岩",
+                "nameKana": "かむいいわ",
+                "address": "北海道深川市納内町",
+                "longitudelatitude": "43.7358006983231,142.196482241226",
+                "level": "",
+                "url": "110",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.65177777827,
+                    43.8844993216924
+                ]
+            },
+            "properties": {
+                "rockyId": 118,
+                "name": "石垣山",
+                "nameKana": "いしがきやま",
+                "address": "北海道上川郡愛別町",
+                "longitudelatitude": "43.8844993216924,142.65177777827",
+                "level": "",
+                "url": "118",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.996415705278,
+                    43.2376450149618
+                ]
+            },
+            "properties": {
+                "rockyId": 109,
+                "name": "赤岩",
+                "nameKana": "あかいわ",
+                "address": "北海道小樽市祝津",
+                "longitudelatitude": "43.2376450149618,140.996415705278",
+                "level": "",
+                "url": "109",
+                "imgPath": "/img/rp/0109_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.373296341408,
+                    42.9439714194876
+                ]
+            },
+            "properties": {
+                "rockyId": 120,
+                "name": "赤岩青巌峡",
+                "nameKana": "あかいわせいがんきょう",
+                "address": "北海道勇払郡占冠村",
+                "longitudelatitude": "42.9439714194876,142.373296341408",
+                "level": "",
+                "url": "120",
+                "imgPath": "/img/rp/0120_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.243290450018,
+                    44.1135954030039
+                ]
+            },
+            "properties": {
+                "rockyId": 126,
+                "name": "能取岬",
+                "nameKana": "のとろみさき",
+                "address": "北海道網走市字美岬",
+                "longitudelatitude": "44.1135954030039,144.243290450018",
+                "level": "",
+                "url": "126",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.712143580538,
+                    41.7448157633783
+                ]
+            },
+            "properties": {
+                "rockyId": 122,
+                "name": "函館山南壁",
+                "nameKana": "はこだてやまなんぺき",
+                "address": "北海道函館市函館山",
+                "longitudelatitude": "41.7448157633783,140.712143580538",
+                "level": "",
+                "url": "122",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.198955599285,
+                    43.667356315471
+                ]
+            },
+            "properties": {
+                "rockyId": 125,
+                "name": "豊里",
+                "nameKana": "とよさと",
+                "address": "北海道旭川市神居町",
+                "longitudelatitude": "43.667356315471,142.198955599285",
+                "level": "",
+                "url": "125",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.773764082827,
+                    42.5196849719872
+                ]
+            },
+            "properties": {
+                "rockyId": 247,
+                "name": "有珠",
+                "nameKana": "うす",
+                "address": "北海道伊達市有珠町",
+                "longitudelatitude": "42.5196849719872,140.773764082827",
+                "level": "",
+                "url": "247",
+                "imgPath": "/img/rp/0247_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.331171775806,
+                    43.7263690428458
+                ]
+            },
+            "properties": {
+                "rockyId": 123,
+                "name": "雄冬大壁西面",
+                "nameKana": "おふゆおおかべにしめん",
+                "address": "北海道石狩市浜益区雄冬",
+                "longitudelatitude": "43.7263690428458,141.331171775806",
+                "level": "",
+                "url": "123",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.623905439016,
+                    40.4304567020251
+                ]
+            },
+            "properties": {
+                "rockyId": 139,
+                "name": "階上ボルダー",
+                "nameKana": "はしかみぼるだー",
+                "address": "青森県三戸郡階上町",
+                "longitudelatitude": "40.4304567020251,141.623905439016",
+                "level": "",
+                "url": "139",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9397491326109,
+                    40.44242443322937
+                ]
+            },
+            "properties": {
+                "rockyId": 254,
+                "name": "岩館ボルダー",
+                "nameKana": "いわだてぼるだー",
+                "address": "青森県西津軽郡深浦町大間越筧",
+                "longitudelatitude": "40.44242443322937,139.9397491326109",
+                "level": "",
+                "url": "254",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.813310133753,
+                    39.8538139028783
+                ]
+            },
+            "properties": {
+                "rockyId": 131,
+                "name": "ひょうたんケイブ",
+                "nameKana": "ひょうたんけいぶ",
+                "address": "岩手県下閉伊郡岩泉町",
+                "longitudelatitude": "39.8538139028783,141.813310133753",
+                "level": "",
+                "url": "131",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.678947794422,
+                    39.2758102531858
+                ]
+            },
+            "properties": {
+                "rockyId": 140,
+                "name": "観音岩",
+                "nameKana": "かんのんいわ",
+                "address": "岩手県遠野市上郷町細越",
+                "longitudelatitude": "39.2758102531858,141.678947794422",
+                "level": "",
+                "url": "140",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.815263628226,
+                    40.2695802366069
+                ]
+            },
+            "properties": {
+                "rockyId": 130,
+                "name": "侍浜",
+                "nameKana": "さむらいはま",
+                "address": "岩手県久慈市北侍浜",
+                "longitudelatitude": "40.2695802366069,141.815263628226",
+                "level": "",
+                "url": "130",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "both"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.789045341278,
+                    37.8730941125205
+                ]
+            },
+            "properties": {
+                "rockyId": 134,
+                "name": "丸森",
+                "nameKana": "まるもり",
+                "address": "宮城県伊具郡丸森町",
+                "longitudelatitude": "37.8730941125205,140.789045341278",
+                "level": "",
+                "url": "134",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.455487781359,
+                    37.9851554792331
+                ]
+            },
+            "properties": {
+                "rockyId": 142,
+                "name": "傾城森",
+                "nameKana": "けいせいもり",
+                "address": "宮城県刈田郡七ヶ宿町",
+                "longitudelatitude": "37.9851554792331,140.455487781359",
+                "level": "",
+                "url": "142",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.580876955006,
+                    38.9251409376571
+                ]
+            },
+            "properties": {
+                "rockyId": 143,
+                "name": "鹿折の岩場",
+                "nameKana": "ししおりのいわば",
+                "address": "宮城県気仙沼市西八幡前",
+                "longitudelatitude": "38.9251409376571,141.580876955006",
+                "level": "",
+                "url": "143",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.67758237272,
+                    38.3598329755081
+                ]
+            },
+            "properties": {
+                "rockyId": 144,
+                "name": "大倉ボルダー",
+                "nameKana": "おおくらぼるだー",
+                "address": "宮城県仙台市青葉区大倉",
+                "longitudelatitude": "38.3598329755081,140.67758237272",
+                "level": "",
+                "url": "144",
+                "imgPath": "/img/rp/0144_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.73451799554854,
+                    39.90585175396689
+                ]
+            },
+            "properties": {
+                "rockyId": 253,
+                "name": "男鹿ボルダー[カンカネエリア]",
+                "nameKana": "おがぼるだー",
+                "address": "秋田県男鹿市戸賀加茂青砂鴨８５",
+                "longitudelatitude": "39.90585175396689,139.73451799554854",
+                "level": "",
+                "url": "253",
+                "imgPath": "/img/rp/0253_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.77321535273842,
+                    39.8618619280756
+                ]
+            },
+            "properties": {
+                "rockyId": 252,
+                "name": "男鹿ボルダー[館山エリア]",
+                "nameKana": "おがぼるだー",
+                "address": "秋田県男鹿市船川港双六館山",
+                "longitudelatitude": "39.8618619280756,139.77321535273842",
+                "level": "",
+                "url": "252",
+                "imgPath": "/img/rp/0252_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.22396049348,
+                    38.0392240378884
+                ]
+            },
+            "properties": {
+                "rockyId": 141,
+                "name": "とうふ岩",
+                "nameKana": "とうふいわ",
+                "address": "山形県高畠町大字安久津",
+                "longitudelatitude": "38.0392240378884,140.22396049348",
+                "level": "",
+                "url": "141",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.870498289795,
+                    39.1185877102167
+                ]
+            },
+            "properties": {
+                "rockyId": 132,
+                "name": "三崎海岸",
+                "nameKana": "みさきかいがん",
+                "address": "山形県飽海郡遊佐町吹浦西楯",
+                "longitudelatitude": "39.1185877102167,139.870498289795",
+                "level": "",
+                "url": "132",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4727128,
+                    38.2944711
+                ]
+            },
+            "properties": {
+                "rockyId": 133,
+                "name": "山寺",
+                "nameKana": "やまでら",
+                "address": "山形県山形市大字山寺",
+                "longitudelatitude": "38.2944711,140.4727128",
+                "level": "",
+                "url": "133",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.874808166361,
+                    37.1536317645655
+                ]
+            },
+            "properties": {
+                "rockyId": 146,
+                "name": "丑ノ倉",
+                "nameKana": "うしのくら",
+                "address": "福島県いわき市小川町柴原丑ノ倉",
+                "longitudelatitude": "37.1536317645655,140.874808166361",
+                "level": "",
+                "url": "146",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.825697500081,
+                    37.0208839717959
+                ]
+            },
+            "properties": {
+                "rockyId": 147,
+                "name": "高倉山",
+                "nameKana": "たかくらやま",
+                "address": "福島県いわき市常磐湯本町高倉",
+                "longitudelatitude": "37.0208839717959,140.825697500081",
+                "level": "",
+                "url": "147",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.840498305439,
+                    37.715011284155
+                ]
+            },
+            "properties": {
+                "rockyId": 137,
+                "name": "真野川",
+                "nameKana": "まのがわ",
+                "address": "福島県南相馬市鹿島区上栃窪",
+                "longitudelatitude": "37.715011284155,140.840498305439",
+                "level": "",
+                "url": "137",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.835563710436,
+                    37.0246543732634
+                ]
+            },
+            "properties": {
+                "rockyId": 138,
+                "name": "青葉",
+                "nameKana": "あおば",
+                "address": "福島県いわき市常磐湯本町日渡",
+                "longitudelatitude": "37.0246543732634,140.835563710436",
+                "level": "",
+                "url": "138",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.268470596292,
+                    37.6340148486701
+                ]
+            },
+            "properties": {
+                "rockyId": 135,
+                "name": "胎内岩",
+                "nameKana": "たいないいわ",
+                "address": "福島県耶麻郡猪苗代町大字蚕養",
+                "longitudelatitude": "37.6340148486701,140.268470596292",
+                "level": "",
+                "url": "135",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5025256,
+                    37.6669126
+                ]
+            },
+            "properties": {
+                "rockyId": 136,
+                "name": "大日岩",
+                "nameKana": "だいにちいわ",
+                "address": "福島県福島市飯野町明治仲平",
+                "longitudelatitude": "37.6669126,140.5025256",
+                "level": "",
+                "url": "136",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.266872766019,
+                    36.3829839998048
+                ]
+            },
+            "properties": {
+                "rockyId": 19,
+                "name": "笠間ボルダー",
+                "nameKana": "かさまぼるだー",
+                "address": "茨城県笠間市笠間",
+                "longitudelatitude": "36.3829839998048,140.266872766019",
+                "level": "",
+                "url": "19",
+                "imgPath": "/img/rp/0019_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.836338812071,
+                    36.9692522045942
+                ]
+            },
+            "properties": {
+                "rockyId": 17,
+                "name": "塩原ボルダー",
+                "nameKana": "しおばらぼるだー",
+                "address": "栃木県那須塩原市塩原",
+                "longitudelatitude": "36.9692522045942,139.836338812071",
+                "level": "",
+                "url": "17",
+                "imgPath": "/img/rp/0017_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7658877,
+                    36.6178227
+                ]
+            },
+            "properties": {
+                "rockyId": 18,
+                "name": "古賀志山",
+                "nameKana": "こがしやま",
+                "address": "栃木県宇都宮市古賀志町",
+                "longitudelatitude": "36.6178227,139.7658877",
+                "level": "",
+                "url": "18",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8943084,
+                    36.4619019
+                ]
+            },
+            "properties": {
+                "rockyId": 25,
+                "name": "ライオン岩",
+                "nameKana": "らいおんいわ",
+                "address": "群馬県高崎市箕郷町松之沢",
+                "longitudelatitude": "36.4619019,138.8943084",
+                "level": "",
+                "url": "25",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.858223857313,
+                    36.4793056415766
+                ]
+            },
+            "properties": {
+                "rockyId": 24,
+                "name": "硯岩",
+                "nameKana": "すずりいわ",
+                "address": "群馬県吾妻郡東吾妻町大字川戸",
+                "longitudelatitude": "36.4793056415766,138.858223857313",
+                "level": "",
+                "url": "24",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8945336,
+                    36.4620345
+                ]
+            },
+            "properties": {
+                "rockyId": 2,
+                "name": "黒岩",
+                "nameKana": "くろいわ",
+                "address": "群馬県高崎市箕郷町松之沢",
+                "longitudelatitude": "36.4620345,138.8945336",
+                "level": "",
+                "url": "2",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0021184,
+                    36.5844239
+                ]
+            },
+            "properties": {
+                "rockyId": 23,
+                "name": "子持山",
+                "nameKana": "こもちやま",
+                "address": "群馬県渋川市中郷",
+                "longitudelatitude": "36.5844239,139.0021184",
+                "level": "",
+                "url": "23",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.685556851744,
+                    36.0957528835149
+                ]
+            },
+            "properties": {
+                "rockyId": 3,
+                "name": "十石峠",
+                "nameKana": "じっこくとうげ",
+                "address": "群馬県多野郡上野村大字楢原",
+                "longitudelatitude": "36.0957528835149,138.685556851744",
+                "level": "",
+                "url": "3",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.830664053355,
+                    36.0870793892831
+                ]
+            },
+            "properties": {
+                "rockyId": 4,
+                "name": "中里の岩場",
+                "nameKana": "なかざとのいわば",
+                "address": "群馬県多野郡神流町大字神ヶ原",
+                "longitudelatitude": "36.0870793892831,138.830664053355",
+                "level": "",
+                "url": "4",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.7461162,
+                    36.612364
+                ]
+            },
+            "properties": {
+                "rockyId": 1,
+                "name": "有笠山",
+                "nameKana": "ありかさやま",
+                "address": "群馬県吾妻郡中之条町大字上沢渡",
+                "longitudelatitude": "36.612364,138.7461162",
+                "level": "",
+                "url": "1",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.252373560438,
+                    35.9168835113212
+                ]
+            },
+            "properties": {
+                "rockyId": 31,
+                "name": "阿寺の岩場",
+                "nameKana": "あてらのいわば",
+                "address": "埼玉県飯能市大字長沢",
+                "longitudelatitude": "35.9168835113212,139.252373560438",
+                "level": "",
+                "url": "31",
+                "imgPath": "/img/rp/0031_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.193205654034,
+                    35.8724858289078
+                ]
+            },
+            "properties": {
+                "rockyId": 11,
+                "name": "河又",
+                "nameKana": "かわまた",
+                "address": "埼玉県飯能市大字下名栗",
+                "longitudelatitude": "35.8724858289078,139.193205654034",
+                "level": "",
+                "url": "11",
+                "imgPath": "/img/rp/0011_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.230026118952,
+                    36.0362484938695
+                ]
+            },
+            "properties": {
+                "rockyId": 27,
+                "name": "腰越の立岩",
+                "nameKana": "こしごえのたちいわ",
+                "address": "埼玉県比企郡小川町大字上古寺",
+                "longitudelatitude": "36.0362484938695,139.230026118952",
+                "level": "",
+                "url": "27",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9696299654,
+                    35.947394947187
+                ]
+            },
+            "properties": {
+                "rockyId": 7,
+                "name": "三峰ボルダー",
+                "nameKana": "みつみねぼるだー",
+                "address": "埼玉県秩父市大滝",
+                "longitudelatitude": "35.947394947187,138.9696299654",
+                "level": "",
+                "url": "7",
+                "imgPath": "/img/rp/0007_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.001809602515,
+                    36.0726791086262
+                ]
+            },
+            "properties": {
+                "rockyId": 6,
+                "name": "柴崎ロック",
+                "nameKana": "しばさきろっく",
+                "address": "埼玉県秩父市下吉田",
+                "longitudelatitude": "36.0726791086262,139.001809602515",
+                "level": "",
+                "url": "6",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.257420666615,
+                    35.9356643722137
+                ]
+            },
+            "properties": {
+                "rockyId": 8,
+                "name": "聖人岩",
+                "nameKana": "しょうにんいわ",
+                "address": "埼玉県入間郡越生町大字黒山",
+                "longitudelatitude": "35.9356643722137,139.257420666615",
+                "level": "",
+                "url": "8",
+                "imgPath": "/img/rp/0008_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.308299,
+                    35.862091
+                ]
+            },
+            "properties": {
+                "rockyId": 29,
+                "name": "天覧山",
+                "nameKana": "てんらんざん",
+                "address": "埼玉県飯能市大字飯能",
+                "longitudelatitude": "35.862091,139.308299",
+                "level": "",
+                "url": "29",
+                "imgPath": "/img/rp/0029_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.864693245752,
+                    36.0690960012133
+                ]
+            },
+            "properties": {
+                "rockyId": 5,
+                "name": "二子山",
+                "nameKana": "ふたごやま",
+                "address": "埼玉県秩父群小鹿野町藤倉",
+                "longitudelatitude": "36.0690960012133,138.864693245752",
+                "level": "",
+                "url": "5",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.303932074578,
+                    35.8912986592544
+                ]
+            },
+            "properties": {
+                "rockyId": 9,
+                "name": "日和田山",
+                "nameKana": "ひわだやま",
+                "address": "埼玉県日高市大字高麗本郷",
+                "longitudelatitude": "35.8912986592544,139.303932074578",
+                "level": "",
+                "url": "9",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.257104,
+                    35.892766
+                ]
+            },
+            "properties": {
+                "rockyId": 33,
+                "name": "平戸の岩場",
+                "nameKana": "ひらとのいわば",
+                "address": "埼玉県飯能市大字平戸",
+                "longitudelatitude": "35.892766,139.257104",
+                "level": "",
+                "url": "33",
+                "imgPath": "/img/rp/0033_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.195661294068,
+                    35.938242445559
+                ]
+            },
+            "properties": {
+                "rockyId": 10,
+                "name": "北川",
+                "nameKana": "きたがわ",
+                "address": "埼玉県飯能市大字北川",
+                "longitudelatitude": "35.938242445559,139.195661294068",
+                "level": "",
+                "url": "10",
+                "imgPath": "/img/rp/0010_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.944929434573,
+                    36.0652054905536
+                ]
+            },
+            "properties": {
+                "rockyId": 26,
+                "name": "要荷岩",
+                "nameKana": "ようかいわ",
+                "address": "埼玉県秩父郡小鹿野町日尾",
+                "longitudelatitude": "36.0652054905536,138.944929434573",
+                "level": "",
+                "url": "26",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.147447778073,
+                    35.7541183618063
+                ]
+            },
+            "properties": {
+                "rockyId": 41,
+                "name": "つづら岩",
+                "nameKana": "つづらいわ",
+                "address": "東京都西多摩郡檜原村三都郷",
+                "longitudelatitude": "35.7541183618063,139.147447778073",
+                "level": "",
+                "url": "41",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1345622,
+                    35.8050729
+                ]
+            },
+            "properties": {
+                "rockyId": 40,
+                "name": "越沢バットレス",
+                "nameKana": "こいざわばっとれす",
+                "address": "東京都西多摩郡奥多摩町海澤",
+                "longitudelatitude": "35.8050729,139.1345622",
+                "level": "",
+                "url": "40",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.037799982806,
+                    35.8463955916196
+                ]
+            },
+            "properties": {
+                "rockyId": 35,
+                "name": "岳嶺岩",
+                "nameKana": "がくれいいわ",
+                "address": "東京都西多摩郡奥多摩町日原",
+                "longitudelatitude": "35.8463955916196,139.037799982806",
+                "level": "",
+                "url": "35",
+                "imgPath": "/img/rp/0035_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.183807119421,
+                    35.8005246764665
+                ]
+            },
+            "properties": {
+                "rockyId": 14,
+                "name": "御岳ボルダー",
+                "nameKana": "みたけぼるだー",
+                "address": "東京都青梅市御岳本町",
+                "longitudelatitude": "35.8005246764665,139.183807119421",
+                "level": "",
+                "url": "14",
+                "imgPath": "/img/rp/0014_001.jpg",
+                "climbingStyleCd": "both"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1910694,
+                    35.87224444
+                ]
+            },
+            "properties": {
+                "rockyId": 15,
+                "name": "障子岩",
+                "nameKana": "しょうじいわ",
+                "address": "東京都西多摩郡檜原村小沢",
+                "longitudelatitude": "35.87224444,139.1910694",
+                "level": "",
+                "url": "15",
+                "imgPath": "/img/rp/0015_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.116681,
+                    35.7449804
+                ]
+            },
+            "properties": {
+                "rockyId": 43,
+                "name": "神戸の岩場",
+                "nameKana": "かのとのいわば",
+                "address": "東京都西多摩郡檜原村",
+                "longitudelatitude": "35.7449804,139.116681",
+                "level": "",
+                "url": "43",
+                "imgPath": "/img/rp/0043_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.115925,
+                    35.7507
+                ]
+            },
+            "properties": {
+                "rockyId": 39,
+                "name": "神戸ボルダー",
+                "nameKana": "かのとぼるだー",
+                "address": "東京都西多摩郡檜原村",
+                "longitudelatitude": "35.7507,139.115925",
+                "level": "",
+                "url": "39",
+                "imgPath": "/img/rp/0039_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.08672,
+                    35.839211
+                ]
+            },
+            "properties": {
+                "rockyId": 36,
+                "name": "川乗",
+                "nameKana": "かわのり",
+                "address": "東京都西多摩郡奥多摩町氷川",
+                "longitudelatitude": "35.839211,139.08672",
+                "level": "",
+                "url": "36",
+                "imgPath": "/img/rp/0036_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.187775901897,
+                    35.7373074408804
+                ]
+            },
+            "properties": {
+                "rockyId": 16,
+                "name": "天王岩",
+                "nameKana": "てんのういわ",
+                "address": "東京都あきる野市養沢",
+                "longitudelatitude": "35.7373074408804,139.187775901897",
+                "level": "",
+                "url": "16",
+                "imgPath": "/img/rp/0016_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1475225,
+                    35.7454085
+                ]
+            },
+            "properties": {
+                "rockyId": 42,
+                "name": "天狗岩",
+                "nameKana": "てんぐいわ",
+                "address": "東京都西多摩郡檜原村三都郷",
+                "longitudelatitude": "35.7454085,139.1475225",
+                "level": "",
+                "url": "42",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0750707,
+                    35.8294951
+                ]
+            },
+            "properties": {
+                "rockyId": 12,
+                "name": "白妙橋",
+                "nameKana": "しろたえばし",
+                "address": "東京都西多摩郡奥多摩町江東区日原",
+                "longitudelatitude": "35.8294951,139.0750707",
+                "level": "",
+                "url": "12",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1009631,
+                    35.8114661
+                ]
+            },
+            "properties": {
+                "rockyId": 13,
+                "name": "氷川屏風岩",
+                "nameKana": "ひかわびょうぶいわ",
+                "address": "東京都西多摩郡奥多摩町氷川",
+                "longitudelatitude": "35.8114661,139.1009631",
+                "level": "",
+                "url": "13",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.200466576546,
+                    35.7979024613715
+                ]
+            },
+            "properties": {
+                "rockyId": 38,
+                "name": "裏御岳",
+                "nameKana": "うらみたけ",
+                "address": "東京都青梅市柚木町",
+                "longitudelatitude": "35.7979024613715,139.200466576546",
+                "level": "",
+                "url": "38",
+                "imgPath": "/img/rp/0038_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.276982784615,
+                    35.4495975614707
+                ]
+            },
+            "properties": {
+                "rockyId": 21,
+                "name": "広沢寺",
+                "nameKana": "こうたくじ",
+                "address": "神奈川県厚木市七沢",
+                "longitudelatitude": "35.4495975614707,139.276982784615",
+                "level": "",
+                "url": "21",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.612996404787,
+                    35.3063440961044
+                ]
+            },
+            "properties": {
+                "rockyId": 20,
+                "name": "鷹取山",
+                "nameKana": "たかとりやま",
+                "address": "神奈川県逗子市池子",
+                "longitudelatitude": "35.3063440961044,139.612996404787",
+                "level": "",
+                "url": "20",
+                "imgPath": "/img/rp/0020_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.090810378535,
+                    35.1698519385264
+                ]
+            },
+            "properties": {
+                "rockyId": 22,
+                "name": "幕岩",
+                "nameKana": "まくいわ",
+                "address": "神奈川県足柄下郡湯河原町吉浜",
+                "longitudelatitude": "35.1698519385264,139.090810378535",
+                "level": "",
+                "url": "22",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.433169,
+                    37.853837
+                ]
+            },
+            "properties": {
+                "rockyId": 68,
+                "name": "杉滝岩",
+                "nameKana": "すぎたきいわ",
+                "address": "新潟県新発田市小戸",
+                "longitudelatitude": "37.853837,139.433169",
+                "level": "",
+                "url": "68",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.487987,
+                    36.5886647
+                ]
+            },
+            "properties": {
+                "rockyId": 99,
+                "name": "雑穀谷",
+                "nameKana": "ざっこくだに",
+                "address": "富山県中新川郡立山町芦峅寺",
+                "longitudelatitude": "36.5886647,137.487987",
+                "level": "",
+                "url": "99",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.66128189946,
+                    36.132396052872
+                ]
+            },
+            "properties": {
+                "rockyId": 100,
+                "name": "白峰ボルダー",
+                "nameKana": "しらみねぼるだー",
+                "address": "石川県白山市白峰",
+                "longitudelatitude": "36.132396052872,136.66128189946",
+                "level": "",
+                "url": "100",
+                "imgPath": "/img/rp/0100_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5349879,
+                    35.8272729
+                ]
+            },
+            "properties": {
+                "rockyId": 61,
+                "name": "甲府幕岩",
+                "nameKana": "こうふまくいわ",
+                "address": "山梨県北杜市須玉町",
+                "longitudelatitude": "35.8272729,138.5349879",
+                "level": "",
+                "url": "61",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.80856500853,
+                    35.5489705657611
+                ]
+            },
+            "properties": {
+                "rockyId": 63,
+                "name": "三ツ峠",
+                "nameKana": "みつとうげ",
+                "address": "山梨県南都留郡西桂町",
+                "longitudelatitude": "35.5489705657611,138.80856500853",
+                "level": "",
+                "url": "63",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.582231995642,
+                    35.8825528822604
+                ]
+            },
+            "properties": {
+                "rockyId": 212,
+                "name": "瑞牆ボルダー[ハットエリア]",
+                "nameKana": "みずがきぼるだー",
+                "address": "山梨県北杜市須玉町小尾",
+                "longitudelatitude": "35.8825528822604,138.582231995642",
+                "level": "",
+                "url": "212",
+                "imgPath": "/img/rp/0212_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.573194405142,
+                    35.8928753682288
+                ]
+            },
+            "properties": {
+                "rockyId": 209,
+                "name": "瑞牆ボルダー[皇帝岩周辺エリア]",
+                "nameKana": "みずがきぼるだー",
+                "address": "山梨県北杜市須玉町小尾",
+                "longitudelatitude": "35.8928753682288,138.573194405142",
+                "level": "",
+                "url": "209",
+                "imgPath": "/img/rp/0209_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.57646502067,
+                    35.8932398662234
+                ]
+            },
+            "properties": {
+                "rockyId": 210,
+                "name": "瑞牆ボルダー[山形県エリア]",
+                "nameKana": "みずがきぼるだー",
+                "address": "山梨県北杜市須玉町小尾",
+                "longitudelatitude": "35.8932398662234,138.57646502067",
+                "level": "",
+                "url": "210",
+                "imgPath": "/img/rp/0210_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.578684934262,
+                    35.8986773814337
+                ]
+            },
+            "properties": {
+                "rockyId": 208,
+                "name": "瑞牆ボルダー[植樹祭エリア]",
+                "nameKana": "みずがきぼるだー",
+                "address": "山梨県北杜市須玉町小尾",
+                "longitudelatitude": "35.8986773814337,138.578684934262",
+                "level": "",
+                "url": "208",
+                "imgPath": "/img/rp/0208_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.581363267036,
+                    35.893498116381
+                ]
+            },
+            "properties": {
+                "rockyId": 211,
+                "name": "瑞牆ボルダー[大面岩下エリア]",
+                "nameKana": "みずがきぼるだー",
+                "address": "山梨県北杜市須玉町小尾",
+                "longitudelatitude": "35.893498116381,138.581363267036",
+                "level": "",
+                "url": "211",
+                "imgPath": "/img/rp/0211_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5609285,
+                    35.8928235715519
+                ]
+            },
+            "properties": {
+                "rockyId": 58,
+                "name": "瑞牆ボルダー[天鳥川エリア]",
+                "nameKana": "みずがきぼるだー",
+                "address": "山梨県北杜市須玉町小尾",
+                "longitudelatitude": "35.8928235715519,138.5609285",
+                "level": "",
+                "url": "58",
+                "imgPath": "/img/rp/0058_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.57934152008,
+                    35.9063314525118
+                ]
+            },
+            "properties": {
+                "rockyId": 55,
+                "name": "瑞牆山[カサメリ沢]",
+                "nameKana": "みずがきやま",
+                "address": "山梨県北杜市須玉町小尾",
+                "longitudelatitude": "35.9063314525118,138.57934152008",
+                "level": "",
+                "url": "55",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.583043681606,
+                    35.893621747915
+                ]
+            },
+            "properties": {
+                "rockyId": 59,
+                "name": "瑞牆山[カンマンボロン]",
+                "nameKana": "みずがきやま",
+                "address": " 山梨県北杜市須玉町小尾",
+                "longitudelatitude": "35.893621747915,138.583043681606",
+                "level": "",
+                "url": "59",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.583262053419,
+                    35.8939907235198
+                ]
+            },
+            "properties": {
+                "rockyId": 53,
+                "name": "瑞牆山[その他の岩場]",
+                "nameKana": "みずがきやま",
+                "address": "山梨県北杜市須玉町小尾",
+                "longitudelatitude": "35.8939907235198,138.583262053419",
+                "level": "",
+                "url": "53",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.587133613963,
+                    35.8960269523027
+                ]
+            },
+            "properties": {
+                "rockyId": 56,
+                "name": "瑞牆山[十一面岩]",
+                "nameKana": "みずがきやま",
+                "address": "山梨県北杜市須玉町小尾",
+                "longitudelatitude": "35.8960269523027,138.587133613963",
+                "level": "",
+                "url": "56",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.575013210009,
+                    35.8951399458313
+                ]
+            },
+            "properties": {
+                "rockyId": 57,
+                "name": "瑞牆山[植樹祭エリア]",
+                "nameKana": "みずがきやま",
+                "address": "山梨県北杜市須玉町小尾",
+                "longitudelatitude": "35.8951399458313,138.575013210009",
+                "level": "",
+                "url": "57",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.586613948732,
+                    35.8931010970006
+                ]
+            },
+            "properties": {
+                "rockyId": 60,
+                "name": "瑞牆山[大面岩]",
+                "nameKana": "みずがきやま",
+                "address": " 山梨県北杜市須玉町小尾",
+                "longitudelatitude": "35.8931010970006,138.586613948732",
+                "level": "",
+                "url": "60",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.587198729814,
+                    35.9038888242378
+                ]
+            },
+            "properties": {
+                "rockyId": 54,
+                "name": "瑞牆山[不動沢]",
+                "nameKana": "みずがきやま",
+                "address": "山梨県北杜市須玉町小尾",
+                "longitudelatitude": "35.9038888242378,138.587198729814",
+                "level": "",
+                "url": "54",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.46025,
+                    35.818083
+                ]
+            },
+            "properties": {
+                "rockyId": 72,
+                "name": "孫女の岩場",
+                "nameKana": "まごめのいわば",
+                "address": "山梨県北杜市須玉町江草",
+                "longitudelatitude": "35.818083,138.46025",
+                "level": "",
+                "url": "72",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5363173815005,
+                    35.772502548729754
+                ]
+            },
+            "properties": {
+                "rockyId": 62,
+                "name": "太刀岡山",
+                "nameKana": "たちおかやま",
+                "address": "山梨県甲斐市下芦沢",
+                "longitudelatitude": "35.772502548729754,138.5363173815005",
+                "level": "",
+                "url": "62",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.57655277777778,
+                    35.79468055555555
+                ]
+            },
+            "properties": {
+                "rockyId": 255,
+                "name": "野猿谷",
+                "nameKana": "やえんだに",
+                "address": "山梨県甲府市黒平町623-1",
+                "longitudelatitude": "35.79468055555555,138.57655277777778",
+                "level": "",
+                "url": "255",
+                "imgPath": "/img/rp/0255_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.961785990063,
+                    35.7703279058859
+                ]
+            },
+            "properties": {
+                "rockyId": 71,
+                "name": "猿岩",
+                "nameKana": "さるいわ",
+                "address": "長野県駒ヶ根市大久保大久保",
+                "longitudelatitude": "35.7703279058859,137.961785990063",
+                "level": "",
+                "url": "71",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.108652065785,
+                    36.4687903734148
+                ]
+            },
+            "properties": {
+                "rockyId": 44,
+                "name": "冠着山[坊抱岩]",
+                "nameKana": "かむりきやま",
+                "address": "長野県千曲市大字羽尾",
+                "longitudelatitude": "36.4687903734148,138.108652065785",
+                "level": "",
+                "url": "44",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "both"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6337766,
+                    35.9162191
+                ]
+            },
+            "properties": {
+                "rockyId": 48,
+                "name": "小川山[屋根岩]",
+                "nameKana": "おがわやま",
+                "address": "長野県南佐久郡川上村",
+                "longitudelatitude": "35.9162191,138.6337766",
+                "level": "",
+                "url": "48",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6377193,
+                    35.9134324
+                ]
+            },
+            "properties": {
+                "rockyId": 46,
+                "name": "小川山[廻り目平周辺]",
+                "nameKana": "おがわやま",
+                "address": "長野県南佐久郡川上村",
+                "longitudelatitude": "35.9134324,138.6377193",
+                "level": "",
+                "url": "46",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.631487916886,
+                    35.9101010027427
+                ]
+            },
+            "properties": {
+                "rockyId": 47,
+                "name": "小川山[金峰渓谷]",
+                "nameKana": "おがわやま",
+                "address": "長野県南佐久郡川上村",
+                "longitudelatitude": "35.9101010027427,138.631487916886",
+                "level": "",
+                "url": "47",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.64094178809,
+                    35.9082708472533
+                ]
+            },
+            "properties": {
+                "rockyId": 51,
+                "name": "小川山[小川山のボルダー]",
+                "nameKana": "おがわやま",
+                "address": "長野県南佐久郡川上村",
+                "longitudelatitude": "35.9082708472533,138.64094178809",
+                "level": "",
+                "url": "51",
+                "imgPath": "/img/rp/0051_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6418749,
+                    35.9037132
+                ]
+            },
+            "properties": {
+                "rockyId": 49,
+                "name": "小川山[西股沢対岸]",
+                "nameKana": "おがわやま",
+                "address": "長野県南佐久郡川上村",
+                "longitudelatitude": "35.9037132,138.6418749",
+                "level": "",
+                "url": "49",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.632517914896,
+                    35.904863870713
+                ]
+            },
+            "properties": {
+                "rockyId": 50,
+                "name": "小川山[八幡沢周辺]",
+                "nameKana": "おがわやま",
+                "address": "長野県南佐久郡川上村",
+                "longitudelatitude": "35.904863870713,138.632517914896",
+                "level": "",
+                "url": "50",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.44490179108686,
+                    36.016157892135936
+                ]
+            },
+            "properties": {
+                "rockyId": 45,
+                "name": "湯川",
+                "nameKana": "ゆかわ",
+                "address": "長野県南佐久群南牧村",
+                "longitudelatitude": "36.016157892135936,138.44490179108686",
+                "level": "",
+                "url": "45",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.227713488722,
+                    36.595087848708
+                ]
+            },
+            "properties": {
+                "rockyId": 69,
+                "name": "鳶岩",
+                "nameKana": "とびいわ",
+                "address": "長野県長野市松代町",
+                "longitudelatitude": "36.595087848708,138.227713488722",
+                "level": "",
+                "url": "69",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.223254038375,
+                    36.5726687772998
+                ]
+            },
+            "properties": {
+                "rockyId": 70,
+                "name": "尼厳山",
+                "nameKana": "あまかざりやま",
+                "address": "長野県長野市松代町東条",
+                "longitudelatitude": "36.5726687772998,138.223254038375",
+                "level": "",
+                "url": "70",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.893177716774,
+                    35.6174360634951
+                ]
+            },
+            "properties": {
+                "rockyId": 86,
+                "name": "フクベ[下流エリア]",
+                "nameKana": "ふくべ",
+                "address": "岐阜県美濃市片知",
+                "longitudelatitude": "35.6174360634951,136.893177716774",
+                "level": "",
+                "url": "86",
+                "imgPath": "/img/rp/0086_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.890050783502,
+                    35.6384381061146
+                ]
+            },
+            "properties": {
+                "rockyId": 83,
+                "name": "フクベ[上流・山エリア]",
+                "nameKana": "ふくべ",
+                "address": "岐阜県郡上市美並町高砂",
+                "longitudelatitude": "35.6384381061146,136.890050783502",
+                "level": "",
+                "url": "83",
+                "imgPath": "/img/rp/0083_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.88343511151,
+                    35.6367882942986
+                ]
+            },
+            "properties": {
+                "rockyId": 84,
+                "name": "フクベ[上流・川エリア]",
+                "nameKana": "ふくべ",
+                "address": "岐阜県郡上市美並町高砂",
+                "longitudelatitude": "35.6367882942986,136.88343511151",
+                "level": "",
+                "url": "84",
+                "imgPath": "/img/rp/0084_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.893901575934,
+                    35.6335057986263
+                ]
+            },
+            "properties": {
+                "rockyId": 85,
+                "name": "フクベ[中流エリア]",
+                "nameKana": "ふくべ",
+                "address": "岐阜県美濃市片知",
+                "longitudelatitude": "35.6335057986263,136.893901575934",
+                "level": "",
+                "url": "85",
+                "imgPath": "/img/rp/0085_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.348070242637,
+                    35.5007121692752
+                ]
+            },
+            "properties": {
+                "rockyId": 229,
+                "name": "笠置山[カモシカ南側エリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.5007121692752,137.348070242637",
+                "level": "",
+                "url": "229",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.34785562098,
+                    35.5040049944776
+                ]
+            },
+            "properties": {
+                "rockyId": 230,
+                "name": "笠置山[カモシカ北側エリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.5040049944776,137.34785562098",
+                "level": "",
+                "url": "230",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.352465775798,
+                    35.503600388356
+                ]
+            },
+            "properties": {
+                "rockyId": 206,
+                "name": "笠置山[テンプテーションA・Bエリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.503600388356,137.352465775798",
+                "level": "",
+                "url": "206",
+                "imgPath": "/img/rp/0206_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.356228162025,
+                    35.5051860678445
+                ]
+            },
+            "properties": {
+                "rockyId": 224,
+                "name": "笠置山[テンプテーションCエリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.5051860678445,137.356228162025",
+                "level": "",
+                "url": "224",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.356228162025,
+                    35.5051860678445
+                ]
+            },
+            "properties": {
+                "rockyId": 207,
+                "name": "笠置山[ルートエリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.5051860678445,137.356228162025",
+                "level": "",
+                "url": "207",
+                "imgPath": "/img/rp/0207_001.jpg",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.34586528745,
+                    35.504217674385
+                ]
+            },
+            "properties": {
+                "rockyId": 204,
+                "name": "笠置山[大岩ごけエリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.504217674385,137.34586528745",
+                "level": "",
+                "url": "204",
+                "imgPath": "/img/rp/0204_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.3417787017,
+                    35.5040409899159
+                ]
+            },
+            "properties": {
+                "rockyId": 225,
+                "name": "笠置山[猪まちエリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.5040409899159,137.3417787017",
+                "level": "",
+                "url": "225",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.344439452972,
+                    35.5038488400949
+                ]
+            },
+            "properties": {
+                "rockyId": 226,
+                "name": "笠置山[猪まち右エリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.5038488400949,137.344439452972",
+                "level": "",
+                "url": "226",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.347455732532,
+                    35.5046817061174
+                ]
+            },
+            "properties": {
+                "rockyId": 205,
+                "name": "笠置山[電波塔尾根エリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.5046817061174,137.347455732532",
+                "level": "",
+                "url": "205",
+                "imgPath": "/img/rp/0205_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.339801616977,
+                    35.4989071524518
+                ]
+            },
+            "properties": {
+                "rockyId": 236,
+                "name": "笠置山[道下エリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.4989071524518,137.339801616977",
+                "level": "",
+                "url": "236",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.343143649324,
+                    35.4995709816632
+                ]
+            },
+            "properties": {
+                "rockyId": 232,
+                "name": "笠置山[道上A南側エリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.4995709816632,137.343143649324",
+                "level": "",
+                "url": "232",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.343980498514,
+                    35.5016148423282
+                ]
+            },
+            "properties": {
+                "rockyId": 233,
+                "name": "笠置山[道上A北側エリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.5016148423282,137.343980498514",
+                "level": "",
+                "url": "233",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.341212458884,
+                    35.4997631417183
+                ]
+            },
+            "properties": {
+                "rockyId": 234,
+                "name": "笠置山[道上B南側エリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.4997631417183,137.341212458884",
+                "level": "",
+                "url": "234",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.342135138761,
+                    35.501684716987
+                ]
+            },
+            "properties": {
+                "rockyId": 235,
+                "name": "笠置山[道上B北側エリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.501684716987,137.342135138761",
+                "level": "",
+                "url": "235",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.339891834688,
+                    35.5019914499293
+                ]
+            },
+            "properties": {
+                "rockyId": 228,
+                "name": "笠置山[里西エリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.5019914499293,137.339891834688",
+                "level": "",
+                "url": "228",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.348198988703,
+                    35.5002579774402
+                ]
+            },
+            "properties": {
+                "rockyId": 231,
+                "name": "笠置山[里東エリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.5002579774402,137.348198988703",
+                "level": "",
+                "url": "231",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.344525283766,
+                    35.5073074666057
+                ]
+            },
+            "properties": {
+                "rockyId": 227,
+                "name": "笠置山[林道上エリア]",
+                "nameKana": "かさぎやま",
+                "address": "岐阜県恵那市笠置町河合姫栗入会地",
+                "longitudelatitude": "35.5073074666057,137.344525283766",
+                "level": "",
+                "url": "227",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.283532941219,
+                    35.4057597735282
+                ]
+            },
+            "properties": {
+                "rockyId": 75,
+                "name": "瑞浪屏風岩",
+                "nameKana": "みずなみびょうぶいわ",
+                "address": "岐阜県瑞浪市釜戸町",
+                "longitudelatitude": "35.4057597735282,137.283532941219",
+                "level": "",
+                "url": "75",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.740776330855,
+                    34.7062954444506
+                ]
+            },
+            "properties": {
+                "rockyId": 67,
+                "name": "海金剛",
+                "nameKana": "うみこんごう",
+                "address": "静岡県賀茂郡松崎町",
+                "longitudelatitude": "34.7062954444506,138.740776330855",
+                "level": "",
+                "url": "67",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.130742367408,
+                    34.8788504821591
+                ]
+            },
+            "properties": {
+                "rockyId": 66,
+                "name": "城ケ崎",
+                "nameKana": "じょうがさき",
+                "address": "静岡県伊東市八幡野",
+                "longitudelatitude": "34.8788504821591,139.130742367408",
+                "level": "",
+                "url": "66",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.930376029685,
+                    35.003833163365
+                ]
+            },
+            "properties": {
+                "rockyId": 65,
+                "name": "城山",
+                "nameKana": "じょうやま",
+                "address": "静岡県伊豆の国市神島",
+                "longitudelatitude": "35.003833163365,138.930376029685",
+                "level": "",
+                "url": "65",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.888801635223,
+                    35.064235573114
+                ]
+            },
+            "properties": {
+                "rockyId": 64,
+                "name": "鷲頭山",
+                "nameKana": "わしずやま",
+                "address": "静岡県沼津市志下",
+                "longitudelatitude": "35.064235573114,138.888801635223",
+                "level": "",
+                "url": "64",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.078405000091,
+                    35.2756054183326
+                ]
+            },
+            "properties": {
+                "rockyId": 102,
+                "name": "定光寺",
+                "nameKana": "じょうこうじ",
+                "address": "愛知県春日井市玉野町1661",
+                "longitudelatitude": "35.2756054183326,137.078405000091",
+                "level": "",
+                "url": "102",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.250082823673,
+                    35.0687014683432
+                ]
+            },
+            "properties": {
+                "rockyId": 76,
+                "name": "豊田[古美山]",
+                "nameKana": "とよた",
+                "address": "愛知県豊田市坂上町阿知田",
+                "longitudelatitude": "35.0687014683432,137.250082823673",
+                "level": "",
+                "url": "76",
+                "imgPath": "/img/rp/0076_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.240908187699,
+                    35.0585093916031
+                ]
+            },
+            "properties": {
+                "rockyId": 80,
+                "name": "豊田[城山城址・槍エリア]",
+                "nameKana": "とよた",
+                "address": "愛知県豊田市豊松町上屋敷",
+                "longitudelatitude": "35.0585093916031,137.240908187699",
+                "level": "",
+                "url": "80",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.227055179357,
+                    35.0538002127671
+                ]
+            },
+            "properties": {
+                "rockyId": 81,
+                "name": "豊田[大給城址]",
+                "nameKana": "とよた",
+                "address": "愛知県豊田市大内町亜知垣内14",
+                "longitudelatitude": "35.0538002127671,137.227055179357",
+                "level": "",
+                "url": "81",
+                "imgPath": "/img/rp/0081_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.24006464413,
+                    35.0608274113592
+                ]
+            },
+            "properties": {
+                "rockyId": 79,
+                "name": "豊田[大田エリア]",
+                "nameKana": "とよた",
+                "address": "愛知県豊田市豊松町西ケ洞",
+                "longitudelatitude": "35.0608274113592,137.24006464413",
+                "level": "",
+                "url": "79",
+                "imgPath": "/img/rp/0079_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.254723601976,
+                    35.0803646039591
+                ]
+            },
+            "properties": {
+                "rockyId": 78,
+                "name": "豊田[大楠林道]",
+                "nameKana": "とよた",
+                "address": "愛知県豊田市石楠町小食沢連85",
+                "longitudelatitude": "35.0803646039591,137.254723601976",
+                "level": "",
+                "url": "78",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.262886291307,
+                    35.0732954520106
+                ]
+            },
+            "properties": {
+                "rockyId": 77,
+                "name": "豊田[天下峰]",
+                "nameKana": "とよた",
+                "address": "愛知県豊田市坂上町天下峯",
+                "longitudelatitude": "35.0732954520106,137.262886291307",
+                "level": "",
+                "url": "77",
+                "imgPath": "/img/rp/0077_001.jpg",
+                "climbingStyleCd": "both"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.6635109,
+                    35.0347805
+                ]
+            },
+            "properties": {
+                "rockyId": 73,
+                "name": "鳳来[鬼岩]",
+                "nameKana": "ほうらい",
+                "address": "愛知県新城市川合八石",
+                "longitudelatitude": "35.0347805,137.6635109",
+                "level": "",
+                "url": "73",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.662988138864,
+                    35.0251765624276
+                ]
+            },
+            "properties": {
+                "rockyId": 74,
+                "name": "鳳来[乳岩峡左岸尾根]",
+                "nameKana": "ほうらい",
+                "address": "愛知県新城市川合乳岩",
+                "longitudelatitude": "35.0251765624276,137.662988138864",
+                "level": "",
+                "url": "74",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.470668209856,
+                    34.7258487774762
+                ]
+            },
+            "properties": {
+                "rockyId": 101,
+                "name": "立岩（愛知県）",
+                "nameKana": "たちいわ",
+                "address": "愛知県豊橋市雲谷町上ノ山",
+                "longitudelatitude": "34.7258487774762,137.470668209856",
+                "level": "",
+                "url": "101",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.43434409605,
+                    35.0234732426144
+                ]
+            },
+            "properties": {
+                "rockyId": 87,
+                "name": "御在所",
+                "nameKana": "ございしょ",
+                "address": "三重県三重郡菰野町大字菰野",
+                "longitudelatitude": "35.0234732426144,136.43434409605",
+                "level": "",
+                "url": "87",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.21265,
+                    33.931487
+                ]
+            },
+            "properties": {
+                "rockyId": 90,
+                "name": "楯ガ崎",
+                "nameKana": "たてがさき",
+                "address": "三重県熊野市甫母町",
+                "longitudelatitude": "33.931487,136.21265",
+                "level": "",
+                "url": "90",
+                "imgPath": "/img/rp/0090_001.jpg",
+                "climbingStyleCd": "both"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.434349156858,
+                    34.9590499214055
+                ]
+            },
+            "properties": {
+                "rockyId": 88,
+                "name": "椿岩",
+                "nameKana": "つばきいわ",
+                "address": "三重県鈴鹿市小岐須町",
+                "longitudelatitude": "34.9590499214055,136.434349156858",
+                "level": "",
+                "url": "88",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.4047946,
+                    34.3255268
+                ]
+            },
+            "properties": {
+                "rockyId": 89,
+                "name": "白嵓",
+                "nameKana": "しらくら",
+                "address": "三重県度会郡大紀町阿曽",
+                "longitudelatitude": "34.3255268,136.4047946",
+                "level": "",
+                "url": "89",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.328069,
+                    35.25008
+                ]
+            },
+            "properties": {
+                "rockyId": 91,
+                "name": "芹谷屏風岩",
+                "nameKana": "せりだにびょうぶいわ",
+                "address": "滋賀県犬上郡多賀町",
+                "longitudelatitude": "35.25008,136.328069",
+                "level": "",
+                "url": "91",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.842889968618,
+                    35.0233080689389
+                ]
+            },
+            "properties": {
+                "rockyId": 92,
+                "name": "千石岩",
+                "nameKana": "せんごくいわ",
+                "address": "滋賀県大津市山上町",
+                "longitudelatitude": "35.0233080689389,135.842889968618",
+                "level": "",
+                "url": "92",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.942569,
+                    34.758224
+                ]
+            },
+            "properties": {
+                "rockyId": 94,
+                "name": "笠置ボルダー",
+                "nameKana": "かさぎぼるだー",
+                "address": "京都府相楽郡笠置町",
+                "longitudelatitude": "34.758224,135.942569",
+                "level": "",
+                "url": "94",
+                "imgPath": "/img/rp/0094_001.jpg",
+                "climbingStyleCd": "both"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.81084548234983,
+                    35.11585521357091
+                ]
+            },
+            "properties": {
+                "rockyId": 93,
+                "name": "金毘羅山",
+                "nameKana": "こんぴらいわ",
+                "address": "京都府京都市左京区 ",
+                "longitudelatitude": "35.11585521357091,135.81084548234983",
+                "level": "",
+                "url": "93",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.329172013759,
+                    35.2934902637761
+                ]
+            },
+            "properties": {
+                "rockyId": 105,
+                "name": "立岩（京都府）",
+                "nameKana": "たちいわ",
+                "address": "京都府綾部市上原町",
+                "longitudelatitude": "35.2934902637761,135.329172013759",
+                "level": "",
+                "url": "105",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5036382,
+                    34.3932231
+                ]
+            },
+            "properties": {
+                "rockyId": 106,
+                "name": "槙尾山",
+                "nameKana": "まきおさん",
+                "address": "大阪府和泉市槇尾山町",
+                "longitudelatitude": "34.3932231,135.5036382",
+                "level": "",
+                "url": "106",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2545228,
+                    34.8731902
+                ]
+            },
+            "properties": {
+                "rockyId": 98,
+                "name": "烏帽子岩",
+                "nameKana": "えぼしいわ",
+                "address": "兵庫県神戸市北区道場町",
+                "longitudelatitude": "34.8731902,135.2545228",
+                "level": "",
+                "url": "98",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2626797,
+                    34.8698979
+                ]
+            },
+            "properties": {
+                "rockyId": 97,
+                "name": "不動岩",
+                "nameKana": "ふどういわ",
+                "address": "兵庫県神戸市北区道場町",
+                "longitudelatitude": "34.8698979,135.2626797",
+                "level": "",
+                "url": "97",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.832432359935,
+                    35.065676078296
+                ]
+            },
+            "properties": {
+                "rockyId": 107,
+                "name": "壁岩",
+                "nameKana": "へきがん",
+                "address": "兵庫県神崎郡神河町",
+                "longitudelatitude": "35.065676078296,134.832432359935",
+                "level": "",
+                "url": "107",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.233867656092,
+                    34.7528692862364
+                ]
+            },
+            "properties": {
+                "rockyId": 96,
+                "name": "保塁岩",
+                "nameKana": "ほうるいいわ",
+                "address": "兵庫県神戸市灘区六甲山町",
+                "longitudelatitude": "34.7528692862364,135.233867656092",
+                "level": "",
+                "url": "96",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.322317370124,
+                    34.7634179631969
+                ]
+            },
+            "properties": {
+                "rockyId": 217,
+                "name": "北山公園[南側]",
+                "nameKana": "きたやまこうえん",
+                "address": "兵庫県西宮市北山町",
+                "longitudelatitude": "34.7634179631969,135.322317370124",
+                "level": "",
+                "url": "217",
+                "imgPath": "/img/rp/0217_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.32182561023,
+                    34.7659789920302
+                ]
+            },
+            "properties": {
+                "rockyId": 95,
+                "name": "北山公園[北側]",
+                "nameKana": "きたやまこうえん",
+                "address": "兵庫県西宮市北山町",
+                "longitudelatitude": "34.7659789920302,135.32182561023",
+                "level": "",
+                "url": "95",
+                "imgPath": "/img/rp/0095_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.079356648543,
+                    34.1823161448424
+                ]
+            },
+            "properties": {
+                "rockyId": 108,
+                "name": "千石嵓",
+                "nameKana": "せんごくぐら",
+                "address": "奈良県吉野郡上北山村",
+                "longitudelatitude": "34.1823161448424,136.079356648543",
+                "level": "",
+                "url": "108",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.048563470959,
+                    35.57823162354
+                ]
+            },
+            "properties": {
+                "rockyId": 166,
+                "name": "島根半島",
+                "nameKana": "しまねはんとう",
+                "address": "島根県松江市島根町加賀",
+                "longitudelatitude": "35.57823162354,133.048563470959",
+                "level": "",
+                "url": "166",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.929815290301,
+                    34.513219643154
+                ]
+            },
+            "properties": {
+                "rockyId": 218,
+                "name": "みやま公園",
+                "nameKana": "みやまこうえん",
+                "address": "岡山県玉野市田井2丁目4490",
+                "longitudelatitude": "34.513219643154,133.929815290301",
+                "level": "",
+                "url": "218",
+                "imgPath": "/img/rp/0218_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.885061327939,
+                    34.4596628747302
+                ]
+            },
+            "properties": {
+                "rockyId": 214,
+                "name": "王子ヶ岳[ニコニコ岩周辺]",
+                "nameKana": "おうじがたけ",
+                "address": " 岡山県玉野市渋川４丁目",
+                "longitudelatitude": "34.4596628747302,133.885061327939",
+                "level": "",
+                "url": "214",
+                "imgPath": "/img/rp/0214_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.881333573489,
+                    34.4607473625854
+                ]
+            },
+            "properties": {
+                "rockyId": 213,
+                "name": "王子ヶ岳[パークセンター周辺]",
+                "nameKana": "おうじがたけ",
+                "address": "岡山県玉野市渋川4丁目",
+                "longitudelatitude": "34.4607473625854,133.881333573489",
+                "level": "",
+                "url": "213",
+                "imgPath": "/img/rp/0213_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.888538992412,
+                    34.4668024947027
+                ]
+            },
+            "properties": {
+                "rockyId": 216,
+                "name": "王子ヶ岳[もはや王子ではないエリア]",
+                "nameKana": "おうじがたけ",
+                "address": "岡山県玉野市渋川4丁目",
+                "longitudelatitude": "34.4668024947027,133.888538992412",
+                "level": "",
+                "url": "216",
+                "imgPath": "/img/rp/0216_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.883815186581,
+                    34.4609395296982
+                ]
+            },
+            "properties": {
+                "rockyId": 148,
+                "name": "王子ヶ岳[東のボルダリングエリア]",
+                "nameKana": "おうじがたけ",
+                "address": "岡山県玉野市渋川4丁目",
+                "longitudelatitude": "34.4609395296982,133.883815186581",
+                "level": "",
+                "url": "148",
+                "imgPath": "/img/rp/0148_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.8823123169,
+                    34.4639697030749
+                ]
+            },
+            "properties": {
+                "rockyId": 215,
+                "name": "王子ヶ岳[裏王子&駐車場周辺]",
+                "nameKana": "おうじがたけ",
+                "address": "岡山県玉野市渋川4丁目",
+                "longitudelatitude": "34.4639697030749,133.8823123169",
+                "level": "",
+                "url": "215",
+                "imgPath": "/img/rp/0215_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.428837741778,
+                    34.7986317110474
+                ]
+            },
+            "properties": {
+                "rockyId": 158,
+                "name": "備中[カワセミエリア]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県高梁市成羽町布寄",
+                "longitudelatitude": "34.7986317110474,133.428837741778",
+                "level": "",
+                "url": "158",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.480401264857,
+                    34.7875218409406
+                ]
+            },
+            "properties": {
+                "rockyId": 152,
+                "name": "備中[ニューエリア]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県高梁市備中町志藤用瀬",
+                "longitudelatitude": "34.7875218409406,133.480401264857",
+                "level": "",
+                "url": "152",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.476015354045,
+                    34.7873012861266
+                ]
+            },
+            "properties": {
+                "rockyId": 154,
+                "name": "備中[レイクビュー]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県高梁市備中町長屋",
+                "longitudelatitude": "34.7873012861266,133.476015354045",
+                "level": "",
+                "url": "154",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.498562292153,
+                    34.8100491685285
+                ]
+            },
+            "properties": {
+                "rockyId": 149,
+                "name": "備中[羽山渓谷]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県高梁市成羽町羽山",
+                "longitudelatitude": "34.8100491685285,133.498562292153",
+                "level": "",
+                "url": "149",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.394220052088,
+                    34.7488664350515
+                ]
+            },
+            "properties": {
+                "rockyId": 160,
+                "name": "備中[権現谷・河原]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県高梁市備中町平川",
+                "longitudelatitude": "34.7488664350515,133.394220052088",
+                "level": "",
+                "url": "160",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.393658510943,
+                    34.749004103454
+                ]
+            },
+            "properties": {
+                "rockyId": 159,
+                "name": "備中[権現谷・岩陰遺跡]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県高梁市備中町平川",
+                "longitudelatitude": "34.749004103454,133.393658510943",
+                "level": "",
+                "url": "159",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.450025355283,
+                    34.7619312749187
+                ]
+            },
+            "properties": {
+                "rockyId": 162,
+                "name": "備中[原瀧山]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県高梁市川上町下大竹",
+                "longitudelatitude": "34.7619312749187,133.450025355283",
+                "level": "",
+                "url": "162",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.64695596864505,
+                    35.1051387244145
+                ]
+            },
+            "properties": {
+                "rockyId": 163,
+                "name": "備中[勝山の岩場]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県真庭市神代",
+                "longitudelatitude": "35.1051387244145,133.64695596864505",
+                "level": "",
+                "url": "163",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.449540826748,
+                    34.7987929014784
+                ]
+            },
+            "properties": {
+                "rockyId": 155,
+                "name": "備中[杉田ロック]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県高梁市成羽町布寄",
+                "longitudelatitude": "34.7987929014784,133.449540826748",
+                "level": "",
+                "url": "155",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.427066908956,
+                    34.7989484223173
+                ]
+            },
+            "properties": {
+                "rockyId": 157,
+                "name": "備中[川エリア]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県高梁市成羽町布寄",
+                "longitudelatitude": "34.7989484223173,133.427066908956",
+                "level": "",
+                "url": "157",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.476568076098,
+                    34.7874833049402
+                ]
+            },
+            "properties": {
+                "rockyId": 153,
+                "name": "備中[長屋坂]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県高梁市備中町長屋",
+                "longitudelatitude": "34.7874833049402,133.476568076098",
+                "level": "",
+                "url": "153",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.450900775964,
+                    34.7967426002636
+                ]
+            },
+            "properties": {
+                "rockyId": 156,
+                "name": "備中[天空の城]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県高梁市成羽町布寄",
+                "longitudelatitude": "34.7967426002636,133.450900775964",
+                "level": "",
+                "url": "156",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.491460958237,
+                    34.8101077207643
+                ]
+            },
+            "properties": {
+                "rockyId": 150,
+                "name": "備中[天龍]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県高梁市成羽町羽山",
+                "longitudelatitude": "34.8101077207643,133.491460958237",
+                "level": "",
+                "url": "150",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.394475080324,
+                    34.7486074012718
+                ]
+            },
+            "properties": {
+                "rockyId": 161,
+                "name": "備中[磐窟渓]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県高梁市備中町布瀬",
+                "longitudelatitude": "34.7486074012718,133.394475080324",
+                "level": "",
+                "url": "161",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.482874833625,
+                    34.7831609730325
+                ]
+            },
+            "properties": {
+                "rockyId": 151,
+                "name": "備中[用瀬の嶽]",
+                "nameKana": "びっちゅう",
+                "address": "岡山県高梁市備中町志藤用瀬",
+                "longitudelatitude": "34.7831609730325,133.482874833625",
+                "level": "",
+                "url": "151",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.150494025993,
+                    34.3152942942873
+                ]
+            },
+            "properties": {
+                "rockyId": 165,
+                "name": "三倉岳",
+                "nameKana": "みくらだけ",
+                "address": "広島県大竹市栗谷町小栗林２１７",
+                "longitudelatitude": "34.3152942942873,132.150494025993",
+                "level": "",
+                "url": "165",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.428476944346,
+                    34.0698500638508
+                ]
+            },
+            "properties": {
+                "rockyId": 167,
+                "name": "陶ヶ岳",
+                "nameKana": "すえがたけ",
+                "address": "山口県山口市秋穂二島１０６２",
+                "longitudelatitude": "34.0698500638508,131.428476944346",
+                "level": "",
+                "url": "167",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "both"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.565367433819,
+                    33.7327545542273
+                ]
+            },
+            "properties": {
+                "rockyId": 168,
+                "name": "日和佐",
+                "nameKana": "ひわさ",
+                "address": "徳島県海部郡美波町",
+                "longitudelatitude": "33.7327545542273,134.565367433819",
+                "level": "",
+                "url": "168",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.077169181404,
+                    33.9797578738714
+                ]
+            },
+            "properties": {
+                "rockyId": 190,
+                "name": "鳴滝",
+                "nameKana": "なるたき",
+                "address": "徳島県美馬郡つるぎ町貞光",
+                "longitudelatitude": "33.9797578738714,134.077169181404",
+                "level": "",
+                "url": "190",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.475919018376,
+                    33.9194434419515
+                ]
+            },
+            "properties": {
+                "rockyId": 220,
+                "name": "立川渓谷[下流エリア]",
+                "nameKana": "たづかわけいこく",
+                "address": "徳島県勝浦郡勝浦町",
+                "longitudelatitude": "33.9194434419515,134.475919018376",
+                "level": "",
+                "url": "220",
+                "imgPath": "/img/rp/0220_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.473352575835,
+                    33.9172895151564
+                ]
+            },
+            "properties": {
+                "rockyId": 189,
+                "name": "立川渓谷[上流エリア]",
+                "nameKana": "たづかわけいこく",
+                "address": "徳島県勝浦郡勝浦町",
+                "longitudelatitude": "33.9172895151564,134.473352575835",
+                "level": "",
+                "url": "189",
+                "imgPath": "/img/rp/0189_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.475890204147,
+                    33.9184393853498
+                ]
+            },
+            "properties": {
+                "rockyId": 221,
+                "name": "立川渓谷[竹林エリア]",
+                "nameKana": "たづかわけいこく",
+                "address": "徳島県勝浦郡勝浦町",
+                "longitudelatitude": "33.9184393853498,134.475890204147",
+                "level": "",
+                "url": "221",
+                "imgPath": "/img/rp/0221_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.475000475157,
+                    33.9173008396442
+                ]
+            },
+            "properties": {
+                "rockyId": 219,
+                "name": "立川渓谷[中流エリア]",
+                "nameKana": "たづかわけいこく",
+                "address": "徳島県勝浦郡勝浦町",
+                "longitudelatitude": "33.9173008396442,134.475000475157",
+                "level": "",
+                "url": "219",
+                "imgPath": "/img/rp/0219_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.144061360533,
+                    34.385302683443
+                ]
+            },
+            "properties": {
+                "rockyId": 188,
+                "name": "遠見山",
+                "nameKana": "とうみやま",
+                "address": "香川県高松市庵治町",
+                "longitudelatitude": "34.385302683443,134.144061360533",
+                "level": "",
+                "url": "188",
+                "imgPath": "/img/rp/0188_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.952549244674,
+                    34.3736838312474
+                ]
+            },
+            "properties": {
+                "rockyId": 169,
+                "name": "紅ノ峰",
+                "nameKana": "こうのみね",
+                "address": "香川県生島町",
+                "longitudelatitude": "34.3736838312474,133.952549244674",
+                "level": "",
+                "url": "169",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.15194969256,
+                    33.8031895062582
+                ]
+            },
+            "properties": {
+                "rockyId": 191,
+                "name": "西之川ボルダー",
+                "nameKana": "にしのかわぼるだー",
+                "address": "愛媛県西条市",
+                "longitudelatitude": "33.8031895062582,133.15194969256",
+                "level": "",
+                "url": "191",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.941713255572,
+                    33.4635290982587
+                ]
+            },
+            "properties": {
+                "rockyId": 193,
+                "name": "大山岬",
+                "nameKana": "おおやまみさき",
+                "address": "高知県安芸市",
+                "longitudelatitude": "33.4635290982587,133.941713255572",
+                "level": "",
+                "url": "193",
+                "imgPath": "/img/rp/0193_001.jpg",
+                "climbingStyleCd": "both"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.669466774143,
+                    32.7847398132629
+                ]
+            },
+            "properties": {
+                "rockyId": 172,
+                "name": "大堂海岸",
+                "nameKana": "おおどうかいがん",
+                "address": "高知県幡多郡",
+                "longitudelatitude": "32.7847398132629,132.669466774143",
+                "level": "",
+                "url": "172",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.259069922887,
+                    33.4758437685058
+                ]
+            },
+            "properties": {
+                "rockyId": 170,
+                "name": "斗賀野",
+                "nameKana": "とがの",
+                "address": "高知県高岡郡",
+                "longitudelatitude": "33.4758437685058,133.259069922887",
+                "level": "",
+                "url": "170",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.871825813816,
+                    33.6962956442869
+                ]
+            },
+            "properties": {
+                "rockyId": 192,
+                "name": "物部・大栃の岩場",
+                "nameKana": "ものべ・おおどちのいわば",
+                "address": "高知県香美市",
+                "longitudelatitude": "33.6962956442869,133.871825813816",
+                "level": "",
+                "url": "192",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.161754863891,
+                    33.6307503157581
+                ]
+            },
+            "properties": {
+                "rockyId": 171,
+                "name": "明戸岩",
+                "nameKana": "みょうといわ",
+                "address": "高知県吾川郡仁淀川町",
+                "longitudelatitude": "33.6307503157581,133.161754863891",
+                "level": "",
+                "url": "171",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.7753733,
+                    33.85274272
+                ]
+            },
+            "properties": {
+                "rockyId": 194,
+                "name": "河頭山",
+                "nameKana": "ごうとうやま",
+                "address": "福岡県北九州市八幡西区大字鳴水",
+                "longitudelatitude": "33.85274272,130.7753733",
+                "level": "",
+                "url": "194",
+                "imgPath": "/img/rp/0194_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.789307901229,
+                    33.1793957768166
+                ]
+            },
+            "properties": {
+                "rockyId": 176,
+                "name": "日向神",
+                "nameKana": "ひゅうがみ",
+                "address": "福岡県八女郡矢部村黒木町大淵",
+                "longitudelatitude": "33.1793957768166,130.789307901229",
+                "level": "",
+                "url": "176",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.903853709737,
+                    33.7535872042711
+                ]
+            },
+            "properties": {
+                "rockyId": 173,
+                "name": "平尾台",
+                "nameKana": "ひらおだい",
+                "address": "福岡県北九州市小倉南区大字新道寺",
+                "longitudelatitude": "33.7535872042711,130.903853709737",
+                "level": "",
+                "url": "173",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.9823515,
+                    32.9237834
+                ]
+            },
+            "properties": {
+                "rockyId": 195,
+                "name": "山田の滝ボルダー",
+                "nameKana": "やまだのたきぼるだー",
+                "address": "長崎県大村市荒平町",
+                "longitudelatitude": "32.9237834,129.9823515",
+                "level": "",
+                "url": "195",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.981956097821,
+                    33.025436663921
+                ]
+            },
+            "properties": {
+                "rockyId": 174,
+                "name": "竜頭泉",
+                "nameKana": "りゅうとうせん",
+                "address": "長崎県東彼杵郡東彼杵町",
+                "longitudelatitude": "33.025436663921,129.981956097821",
+                "level": "",
+                "url": "174",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.463794,
+                    32.193139
+                ]
+            },
+            "properties": {
+                "rockyId": 197,
+                "name": "モンキーハング",
+                "nameKana": "もんきーはんぐ",
+                "address": "熊本県水俣市",
+                "longitudelatitude": "32.193139,130.463794",
+                "level": "",
+                "url": "197",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "both"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.734243191887,
+                    32.3410725120557
+                ]
+            },
+            "properties": {
+                "rockyId": 183,
+                "name": "万江川渓谷",
+                "nameKana": "まえがわけいこく",
+                "address": "熊本県球磨郡山江村大字万江",
+                "longitudelatitude": "32.3410725120557,130.734243191887",
+                "level": "",
+                "url": "183",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.606805758794,
+                    32.7787379399163
+                ]
+            },
+            "properties": {
+                "rockyId": 196,
+                "name": "宇目ボルダー",
+                "nameKana": "うめぼるだー",
+                "address": "大分県佐伯市宇目",
+                "longitudelatitude": "32.7787379399163,131.606805758794",
+                "level": "",
+                "url": "196",
+                "imgPath": "/img/rp/0196_001.jpg",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.220822544801,
+                    33.5033025523765
+                ]
+            },
+            "properties": {
+                "rockyId": 177,
+                "name": "八面山",
+                "nameKana": "はちめんざん",
+                "address": "大分県中津市",
+                "longitudelatitude": "33.5033025523765,131.220822544801",
+                "level": "",
+                "url": "177",
+                "imgPath": "/img/rp/0177_001.jpg",
+                "climbingStyleCd": "both"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.741259881233,
+                    32.9443191792145
+                ]
+            },
+            "properties": {
+                "rockyId": 178,
+                "name": "本匠",
+                "nameKana": "ほんじょう",
+                "address": "大分県佐伯市本匠村小半",
+                "longitudelatitude": "32.9443191792145,131.741259881233",
+                "level": "",
+                "url": "178",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.438811,
+                    32.777506
+                ]
+            },
+            "properties": {
+                "rockyId": 223,
+                "name": "日之影ボルダー[ラサエリア]",
+                "nameKana": "ひのかげぼるだー",
+                "address": "宮崎県西臼杵郡日之影町大字見立",
+                "longitudelatitude": "32.777506,131.438811",
+                "level": "",
+                "url": "223",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.412197084773,
+                    32.732872710754
+                ]
+            },
+            "properties": {
+                "rockyId": 180,
+                "name": "日之影ボルダー[仲組公民館周辺]",
+                "nameKana": "ひのかげぼるだー",
+                "address": "宮崎県西臼杵郡日之影町大字見立３０２１",
+                "longitudelatitude": "32.732872710754,131.412197084773",
+                "level": "",
+                "url": "180",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.429967,
+                    32.766653
+                ]
+            },
+            "properties": {
+                "rockyId": 222,
+                "name": "日之影ボルダー[日陰エリア]",
+                "nameKana": "ひのかげぼるだー",
+                "address": "宮崎県西臼杵郡日之影町大字見立",
+                "longitudelatitude": "32.766653,131.429967",
+                "level": "",
+                "url": "222",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.447148753179,
+                    32.6466988373568
+                ]
+            },
+            "properties": {
+                "rockyId": 242,
+                "name": "比叡ボルダー[カランコロン南側エリア]",
+                "nameKana": "ひえいぼるだー",
+                "address": "宮崎県延岡市北方町菅原",
+                "longitudelatitude": "32.6466988373568,131.447148753179",
+                "level": "",
+                "url": "242",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.447482320301,
+                    32.6466640711368
+                ]
+            },
+            "properties": {
+                "rockyId": 243,
+                "name": "比叡ボルダー[カランコロン北側エリア]",
+                "nameKana": "ひえいぼるだー",
+                "address": "宮崎県延岡市北方町菅原",
+                "longitudelatitude": "32.6466640711368,131.447482320301",
+                "level": "",
+                "url": "243",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.44761680442696,
+                    32.64511834235762
+                ]
+            },
+            "properties": {
+                "rockyId": 238,
+                "name": "比叡ボルダー[タブの木南側エリア]",
+                "nameKana": "ひえいぼるだー",
+                "address": "宮崎県延岡市北方町菅原",
+                "longitudelatitude": "32.64511834235762,131.44761680442696",
+                "level": "",
+                "url": "238",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.447778,
+                    32.644901
+                ]
+            },
+            "properties": {
+                "rockyId": 239,
+                "name": "比叡ボルダー[タブの木北側エリア]",
+                "nameKana": "ひえいぼるだー",
+                "address": "宮崎県延岡市北方町菅原",
+                "longitudelatitude": "32.644901,131.447778",
+                "level": "",
+                "url": "239",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.445732546856,
+                    32.6422269850634
+                ]
+            },
+            "properties": {
+                "rockyId": 241,
+                "name": "比叡ボルダー[ヤケダケ西側エリア]",
+                "nameKana": "ひえいぼるだー",
+                "address": "宮崎県延岡市北方町菅原",
+                "longitudelatitude": "32.6422269850634,131.445732546856",
+                "level": "",
+                "url": "241",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.447492075923,
+                    32.6424618757979
+                ]
+            },
+            "properties": {
+                "rockyId": 240,
+                "name": "比叡ボルダー[ヤケダケ東側エリア]",
+                "nameKana": "ひえいぼるだー",
+                "address": "宮崎県延岡市北方町菅原",
+                "longitudelatitude": "32.6424618757979,131.447492075923",
+                "level": "",
+                "url": "240",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.448156430662,
+                    32.6389995966825
+                ]
+            },
+            "properties": {
+                "rockyId": 237,
+                "name": "比叡ボルダー[大谷エリア]",
+                "nameKana": "ひえいぼるだー",
+                "address": "宮崎県延岡市北方町菅原",
+                "longitudelatitude": "32.6389995966825,131.448156430662",
+                "level": "",
+                "url": "237",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.444670567748,
+                    32.6576660523435
+                ]
+            },
+            "properties": {
+                "rockyId": 245,
+                "name": "比叡ボルダー[鳥居エリア]",
+                "nameKana": "ひえいぼるだー",
+                "address": "宮崎県延岡市北方町菅原",
+                "longitudelatitude": "32.6576660523435,131.444670567748",
+                "level": "",
+                "url": "245",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.44605972699,
+                    32.6412953824829
+                ]
+            },
+            "properties": {
+                "rockyId": 181,
+                "name": "比叡ボルダー[道下エリア]",
+                "nameKana": "ひえいぼるだー",
+                "address": "宮崎県延岡市北方町菅原",
+                "longitudelatitude": "32.6412953824829,131.44605972699",
+                "level": "",
+                "url": "181",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.440533416189,
+                    32.6516256822198
+                ]
+            },
+            "properties": {
+                "rockyId": 244,
+                "name": "比叡ボルダー[眠れる森エリア]",
+                "nameKana": "ひえいぼるだー",
+                "address": "宮崎県延岡市北方町菅原",
+                "longitudelatitude": "32.6516256822198,131.440533416189",
+                "level": "",
+                "url": "244",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.443777522953,
+                    32.6521317054454
+                ]
+            },
+            "properties": {
+                "rockyId": 179,
+                "name": "比叡山",
+                "nameKana": "ひえいざん",
+                "address": "宮崎県延岡市",
+                "longitudelatitude": "32.6521317054454,131.443777522953",
+                "level": "",
+                "url": "179",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.382860099983,
+                    31.4688397062299
+                ]
+            },
+            "properties": {
+                "rockyId": 184,
+                "name": "金峯山",
+                "nameKana": "きんぽうざん",
+                "address": "鹿児島県",
+                "longitudelatitude": "31.4688397062299,130.382860099983",
+                "level": "",
+                "url": "184",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "both"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.565631111488,
+                    30.2568332733716
+                ]
+            },
+            "properties": {
+                "rockyId": 185,
+                "name": "本富岳",
+                "nameKana": "もっちょむだけ",
+                "address": "鹿児島県熊毛郡屋久町尾之間",
+                "longitudelatitude": "30.2568332733716,130.565631111488",
+                "level": "",
+                "url": "185",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.45786,
+                    31.816814
+                ]
+            },
+            "properties": {
+                "rockyId": 198,
+                "name": "藺牟田池NEWエリア",
+                "nameKana": "いむたいけ",
+                "address": "鹿児島県薩摩川内市入来町副田",
+                "longitudelatitude": "31.816814,130.45786",
+                "level": "",
+                "url": "198",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.750487045195,
+                    26.1204908132709
+                ]
+            },
+            "properties": {
+                "rockyId": 187,
+                "name": "具志頭ボルダー",
+                "nameKana": "ぐしかみぼるだー",
+                "address": "沖縄県島尻郡八重瀬町字具志頭",
+                "longitudelatitude": "26.1204908132709,127.750487045195",
+                "level": "",
+                "url": "187",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.262072046946,
+                    26.8700897136879
+                ]
+            },
+            "properties": {
+                "rockyId": 186,
+                "name": "辺戸岬・宇佐浜",
+                "nameKana": "へどみさき・うさはま",
+                "address": "沖縄県国頭郡国頭村字辺戸",
+                "longitudelatitude": "26.8700897136879,128.262072046946",
+                "level": "",
+                "url": "186",
+                "imgPath": "/img/rp/no_img.png",
+                "climbingStyleCd": "rc"
+            }
+        }
+    ]
+}
